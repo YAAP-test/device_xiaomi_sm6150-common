@@ -1,6 +1,5 @@
 # App
 ro.launcher.blur.appLaunch=0
-persist.device_config.runtime_native_boot.iorap_perfetto_enable=true
 
 # Bluetooth
 persist.bluetooth.a2dp_aac.vbr_supported=true
